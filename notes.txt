@@ -1,0 +1,23 @@
+upg: security code (to select your location)
+
+upg: install to sn site.
+
+use config file for location
+
+api for getting location
+
+upg: interface to override/set location
+.
+
+upg/next: bar chart for wakeup time to 7.5 hour sleep time.
+
+sunrise to (sunrise+24-7.5)
+0........:::::::::::::::::100
+
+// UPDATES
+
+	2020.04.29
+		- fullscreen toggle
+		- fix minutes display (00) no :D until in sleep zones?
+
+
