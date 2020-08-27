@@ -1,2 +1,2 @@
-# basic-soltime
-Countdown clock based on sleep cycles and synchronized to sunrise.
+# Basic Soltime
+Countdown clock based on sleep cycles and synchronized to local sunrise.
