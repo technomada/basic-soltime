@@ -1,5 +1,6 @@
 const express = require('express')
 const path = require('path')
+const CONFIG = require('./config.js')
 
 // upg: provide config (if secure)
 //
@@ -29,8 +30,8 @@ const path = require('path')
 
 	app.use(express.static(path.join(__dirname,'www')))
 
-	let PORT = 3000
-	app.listen(PORT,async n=>{
-		console.log('port ready',PORT)
+	let {port} = CONFIG
+	app.listen(port,async n=>{
+		console.log('port ready',port)
 		})
 	})();
