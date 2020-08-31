@@ -1,4 +1,4 @@
-# Basic Web Application Series - Soltime
+#  Soltime -- basic web application series.
 Countdown clock based on sleep cycles and synchronized to local sunrise.
 
 * Get better sleep - Synchronize with 90 min sleep cycles and sunrise.
