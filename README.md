@@ -1,6 +1,8 @@
 #  Soltime -- basic web application series.
 Countdown clock based on sleep cycles and synchronized to local sunrise.
 
+A [core series](https://github.com/technomada/core) application.
+
 * Get better sleep - Synchronize with 90 min sleep cycles and sunrise.
 * Make better use of time - Displays countdown of remaining useful day hours.
 
